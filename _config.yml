@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a skimmed summary of my work and interests, if you want to know more don't hesitate and contact me!
 author: Aitor Egurtzegi
 email: egurze@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/headshot.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
