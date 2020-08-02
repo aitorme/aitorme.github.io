@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Aitor Egurtzegi
-subtitle: retired basketball player, now linguist
+subtitle: linguist, former basketball player
 description: >- # this means to ignore newlines until "baseurl:"
   This is a skimmed summary of my work and interests, if you want to know more don't hesitate and contact me!
 author: Aitor Egurtzegi
